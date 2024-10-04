@@ -10,7 +10,7 @@ description: >-
   most of the time.
 featuredImage:
   type: ImageBlock
-  url: /images/smartmockups_m1us6cjt.jpg
+  url: /images/Captura de ecrã 2024-10-04 152026.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
