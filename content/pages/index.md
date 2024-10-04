@@ -63,7 +63,7 @@ sections:
         label: PHP
         url: ''
       - type: Label
-        label: Netlify
+        label: CSS
         url: ''
       - type: Label
         label: Pancakes
