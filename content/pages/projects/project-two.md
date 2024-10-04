@@ -9,9 +9,5 @@ featuredImage:
   type: ImageBlock
   url: /images/smartmockups_m1us6cjt.jpg
   altText: Project thumbnail image
-media:
-  type: ImageBlock
-  url: /images/bg2.jpg
-  altText: Project image
 ---
 <https://drive.google.com/file/d/1UI6Z-rRcfq0WSdZaouVljemwvDNqiTyE/view?usp=sharing>
