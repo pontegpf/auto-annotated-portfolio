@@ -17,12 +17,6 @@ sections:
       Informáticos. Frequento agora o meu último ano de curso onde adquiri
       diversas características para o mercado de trabalho
     actions: []
-    media:
-      type: ImageBlock
-      url: /images/unnamed.png
-      altText: Hero image
-      caption: Caption of the image
-      elementId: ''
     colors: colors-c
     backgroundSize: full
     elementId: ''
