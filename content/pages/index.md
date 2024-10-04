@@ -71,6 +71,9 @@ sections:
       - type: Label
         label: mySQL
         url: ''
+      - type: Label
+        label: SQLServer
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
