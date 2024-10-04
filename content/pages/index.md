@@ -69,7 +69,7 @@ sections:
         label: Java
         url: ''
       - type: Label
-        label: SQL
+        label: mySQL
         url: ''
     colors: colors-f
     elementId: ''
