@@ -74,6 +74,9 @@ sections:
       - type: Label
         label: SQLServer
         url: ''
+      - type: Label
+        label: C Sharp
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
