@@ -66,7 +66,7 @@ sections:
         label: CSS
         url: ''
       - type: Label
-        label: Pancakes
+        label: Java
         url: ''
     colors: colors-f
     elementId: ''
