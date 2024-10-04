@@ -16,16 +16,7 @@ sections:
       Sou estudante do curso técnico de Gestão e Programação de Sistemas
       Informáticos. Frequento agora o meu último ano de curso onde adquiri
       diversas características para o mercado de trabalho
-    actions:
-      - type: Button
-        label: Hire me
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     media:
       type: ImageBlock
       url: /images/about.jpg
