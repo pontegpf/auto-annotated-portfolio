@@ -7,7 +7,7 @@ client: Awesome client
 description: Uso de PHP com uma base de dados em SQL onde guarda o login/ sign up da conta
 featuredImage:
   type: ImageBlock
-  url: /images/smartmockups_m1us6cjt.jpg
+  url: /images/Captura de ecrã 2024-10-04 152026.png
   altText: Project thumbnail image
 ---
 <https://drive.google.com/file/d/1UI6Z-rRcfq0WSdZaouVljemwvDNqiTyE/view?usp=sharing>
