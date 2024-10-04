@@ -68,6 +68,9 @@ sections:
       - type: Label
         label: Java
         url: ''
+      - type: Label
+        label: SQL
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
