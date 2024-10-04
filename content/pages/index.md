@@ -48,7 +48,7 @@ sections:
         justifyContent: flex-start
   - type: LabelsSection
     title: Skills
-    subtitle: The section subtitle
+    subtitle: As linguagens de programação que domino
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
