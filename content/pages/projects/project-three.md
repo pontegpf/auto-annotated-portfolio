@@ -10,7 +10,7 @@ description: >-
   most of the time.
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/smartmockups_m1ut2ldq.jpg
   altText: Project image
 ---
 
