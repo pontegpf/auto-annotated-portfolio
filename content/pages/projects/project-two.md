@@ -4,10 +4,7 @@ title: PHP LOGIN
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: Uso de PHP com uma base de dados em SQL onde guarda o login/ sign up da conta
 featuredImage:
   type: ImageBlock
   url: /images/smartmockups_m1us6cjt.jpg
