@@ -60,7 +60,7 @@ sections:
         label: JavaScript
         url: ''
       - type: Label
-        label: Next.js
+        label: PHP
         url: ''
       - type: Label
         label: Netlify
