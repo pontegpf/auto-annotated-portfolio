@@ -51,7 +51,7 @@ sections:
     subtitle: As linguagens de programação que domino
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Python
         url: ''
       - type: Label
         label: React
