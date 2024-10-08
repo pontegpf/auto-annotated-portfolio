@@ -17,7 +17,7 @@ sections:
       Informáticos. Frequento agora o meu último ano de curso onde adquiri
       diversas características para o mercado de trabalho
     actions: []
-    colors: colors-b
+    colors: colors-d
     backgroundSize: full
     elementId: ''
     styles:
