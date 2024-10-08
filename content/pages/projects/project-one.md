@@ -14,7 +14,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/Captura de ecrã 2024-10-04 152026.png
+  url: /images/Captura de ecrã 2024-10-08 161956.jpg
   altText: Project image
 ---
 <https://drive.google.com/file/d/1A5CPPVYvTF-wMCkBKj3Qm0jgWyd3AdFT/view?usp=sharing>
