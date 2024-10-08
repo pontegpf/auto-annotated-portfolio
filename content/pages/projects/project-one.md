@@ -10,7 +10,7 @@ description: >-
   base de dados AIRTABLE
 featuredImage:
   type: ImageBlock
-  url: /images/Captura de ecrã 2024-10-04 152026.png
+  url: /images/VIT_2993.JPG
   altText: Project thumbnail image
 media:
   type: ImageBlock
