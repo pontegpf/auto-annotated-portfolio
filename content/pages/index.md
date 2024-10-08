@@ -10,6 +10,42 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
+  - type: HeroSection
+    title: Gabriel ponte
+    subtitle: >-
+      Sou estudante do curso técnico de Gestão e Programação de Sistemas
+      Informáticos. Frequento agora o meu último ano de curso onde adquiri
+      diversas características para o mercado de trabalho
+    actions: []
+    colors: colors-d
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    media:
+      type: ImageBlock
+      url: /images/VIT_2993.JPG
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
   - type: LabelsSection
     title: Skills
     subtitle: As linguagens de programação que domino
@@ -63,42 +99,6 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-  - type: HeroSection
-    title: Gabriel ponte
-    subtitle: >-
-      Sou estudante do curso técnico de Gestão e Programação de Sistemas
-      Informáticos. Frequento agora o meu último ano de curso onde adquiri
-      diversas características para o mercado de trabalho
-    actions: []
-    colors: colors-d
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    media:
-      type: ImageBlock
-      url: /images/VIT_2993.JPG
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
   - type: FeaturedProjectsSection
     subtitle: 'Projects:'
     actions:
