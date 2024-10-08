@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: Home
-colors: colors-a
+colors: colors-d
 backgroundImage:
   type: BackgroundImage
   url: /images/bg1.jpg
@@ -17,13 +17,13 @@ sections:
       Informáticos. Frequento agora o meu último ano de curso onde adquiri
       diversas características para o mercado de trabalho
     actions: []
-    colors: colors-c
+    colors: colors-d
     backgroundSize: full
     elementId: ''
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         padding:
           - pt-36
           - pb-48
